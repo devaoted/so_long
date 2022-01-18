@@ -34,7 +34,7 @@ make bonus
 
 ## How to play
 
-Use ``WASD`` or arrows to move. 
+Use ``WASD`` or arrows to move. Esc or red button to exit.
 
 The game is able to play any map you want as long as it follow some specific rules:
 * The map has to be a ``.ber`` file.
