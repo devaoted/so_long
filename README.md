@@ -4,9 +4,9 @@
 
 This project is a small 2D game with minilibx (graphic library made by school21), 
 where the player has to pick all collectibles and go the exit making as few as possible moves. 
-This game is about a dino in the desert who collects water drops to drink from a puddle. 
+The game is about a dino in the desert who collects water drops to drink from a puddle. 
 The project only works on MacOS, so make sure you have installed the required 
-elements to run the minilibx: dynamic lmx library is located in the mlx folder.
+elements to run the minilibx: library is located in the mlx folder.
 
 ---
 <img src="https://github.com/Vlad173/so_long/blob/master/images/dino.gif" width="800" />
